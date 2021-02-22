@@ -7,5 +7,7 @@ target 'RsturentApp' do
 
   # Pods for RsturentApp
 pod 'Alamofire', '~> 4.8'
+pod 'Kingfisher'
+pod 'NVActivityIndicatorView', '~> 4.8.0'
 
 end
